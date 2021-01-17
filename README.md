@@ -17,3 +17,10 @@ pip install 套件名稱
 基本上就解決大部分的問題了  
 如果還是不行請截圖 寄到我的mail  
 applelee5814@gmail.com  
+======================================  
+新增原始python檔案
+load.py = 將資料庫資料讀取並繪製成圖表，以視窗表現
+ml.py = 機器學習python檔案
+main.py = 執行檔案
+
+如果要執行原始python檔案 請將 dist資料夾內的所有圖檔和db檔複製到原始python檔案所在位置  
